@@ -1,5 +1,5 @@
 aiodns==3.0.0
-aiohttp==3.8.6
+aiohttp==3.9.1
 aiohttp-socks==0.7.1
 arabic-reshaper~=3.0.0
 async-timeout==4.0.3
@@ -35,5 +35,5 @@ XMind==1.2.0
 yarl==1.8.2
 networkx==2.6.3
 pyvis==0.2.1
-reportlab==3.6.13
+reportlab==4.0.9
 cloudscraper==1.2.71
